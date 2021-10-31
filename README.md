@@ -12,8 +12,9 @@ Within this repository you will see I was able to:
 - Ensure all of the application links function properly.
 - Apply appropriate alt attributes for screen readers.
 
+### [Access the site by this link!](https://chapmanh10.github.io/horiseon-challenge/)
 
 ![Landing page for Horiseon.com](/assets/images/Horiseon-Screenshot.png)
 
-### [Access the site by this link!](https://chapmanh10.github.io/horiseon-challenge/)
+
 
